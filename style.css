@@ -159,6 +159,9 @@ em{
   .control input{
     width: 350px;
   }
+  .scrool i{
+    display: none;
+  }
 }
 .return a{
   color: #f38911;
