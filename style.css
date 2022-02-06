@@ -174,11 +174,13 @@ em{
 .return a:hover{
   color: #fff;
 }
-.icon-part a{
-  width: 100%;
+.icon-part .linkdin{
+  width: 20%;
+}
+.icon-part i{
+  color: #fff;
   font-size: 30px;
   transition: 00.3s;
-  color: white;
 }
 .icon-part i:hover{
   color: #f38911;
