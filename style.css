@@ -135,6 +135,9 @@ main{
   color: #f38911;
   font-size: 18px;
 }
+.quick-links a:hover{
+  color: #fff;
+}
 .four-part p{
   color: #f38911;
 }
@@ -163,6 +166,10 @@ em{
   font-weight: 700;
   display: flex;
   flex-direction: column;
+  line-height: 30px;
+}
+.return a:hover{
+  color: #fff;
 }
 .icon-part a{
   width: 100%;
@@ -175,4 +182,14 @@ em{
 }
 .four-part i{
   padding-right: 10px;
+}
+.scrool i{
+  position: fixed;
+  top: 76%;
+  right: 2%;
+  font-size: 40px;
+  color: #fff;
+  background: #f38911;
+  padding: 7px 10px;
+  border-radius: 5px;
 }
