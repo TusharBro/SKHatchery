@@ -164,3 +164,15 @@ em{
   display: flex;
   flex-direction: column;
 }
+.icon-part a{
+  width: 100%;
+  font-size: 30px;
+  transition: 00.3s;
+  color: white;
+}
+.icon-part i:hover{
+  color: #f38911;
+}
+.four-part i{
+  padding-right: 10px;
+}
